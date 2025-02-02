@@ -6,6 +6,11 @@ void printHello()
   cout << "Hello\n";
 }
 
+void likeFunc()
+{
+  cout << "like\n";
+}
+
 int main()
 {
   int n;
